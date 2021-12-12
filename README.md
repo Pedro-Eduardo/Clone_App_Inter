@@ -7,6 +7,12 @@ Sistema desenvolvido junto com  a plataforma dio.me  para o  bootcamp do inter f
 
 ### Manual
 - Instale o node
+- npm i 
+- npm install --global yarn 
+- npm install typescript
+- npm install typeorm
+
+
 ### Funcionalidade
 
 - Login
@@ -15,3 +21,4 @@ Sistema desenvolvido junto com  a plataforma dio.me  para o  bootcamp do inter f
 - Gerar nome de pix
 - Faz pix
 - Extrato da conta
+
